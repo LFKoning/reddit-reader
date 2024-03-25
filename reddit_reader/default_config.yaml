@@ -1,0 +1,36 @@
+# Submission fields to store.
+submission_fields:
+- title
+- selftext
+- link_flair_text
+- num_comments
+- score
+- url
+- author
+- author_fullname
+- created
+- created_utc
+- edited
+- ups
+- downs
+- upvote_ratio
+- subreddit
+- subreddit_subscribers
+- locked
+- media
+- secure_media
+- no_follow
+- over_18
+- send_replies
+
+# Comment fields to store.
+comment_fields:
+- body
+- author
+- author_fullname
+- created
+- created_utc
+- edited
+- ups
+- downs
+- subreddit
