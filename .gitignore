@@ -1,5 +1,5 @@
 # Ignore data folder and files.
-reddit_data/
+reddit_*/
 *.zip
 
 # Byte-compiled / optimized / DLL files.
